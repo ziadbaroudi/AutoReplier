@@ -1,0 +1,7 @@
+Hello ${NAME},
+
+
+~ YOUR MESSAGE ~
+
+Regards,
+~YOUR NAME ~
